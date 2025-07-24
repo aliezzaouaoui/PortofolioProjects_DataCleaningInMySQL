@@ -2,7 +2,10 @@
 # 💼 SQL Project: Global Layoffs Data Cleaning (2020–2023)
 
 This project focuses on cleaning a dataset of global layoffs using MySQL, preparing it for analysis and visualization. The dataset was sourced from Kaggle - Layoffs 2022 Dataset, and the goal was to ensure data quality by addressing duplicates, nulls, formatting inconsistencies, and standardizing fields.
-
+## Table Content
+- [Dataset Overview ](dataset_overview )
+- [ Project Steps ](project_steps )
+- [ Outcome](outcome)
 ## 📊 Dataset Overview
 
 The dataset contains information about layoffs across various companies, including details such as:
